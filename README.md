@@ -1,4 +1,4 @@
-<h1 align="left">권태하👋 데이터 사이언티스트 꿈나무</h1>
+<h1 align="left">Taeha👋 github</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-thcoding&label=Profile%20views&color=0e75b6&style=flat" alt="k-thcoding" /> </p>
 
 <h3 align="left">Connect with me:</h3>
